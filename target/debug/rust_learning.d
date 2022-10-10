@@ -1,0 +1,1 @@
+/Users/minhajsadik/Documents/All-Projects/Learning_Project/rust_learning/target/debug/rust_learning: /Users/minhajsadik/Documents/All-Projects/Learning_Project/rust_learning/src/main.rs /Users/minhajsadik/Documents/All-Projects/Learning_Project/rust_learning/src/test.rs
